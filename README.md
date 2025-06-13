@@ -65,7 +65,7 @@ wrs-project/
 
      ```bash
      cd frontend
-     npm run dev   # または yarn dev
+     npm run dev  
      ```
 5. ブラウザで `http://localhost:5173` にアクセス
 
