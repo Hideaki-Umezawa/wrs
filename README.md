@@ -1,4 +1,4 @@
-# 🚶 Walk Recording System 【WALK MEMORY】
+# 🚶 【WALK MEMORY】
 
 <img alt="Walk Memory" src="wrs.png" width="500px">
 
