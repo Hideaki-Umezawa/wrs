@@ -46,7 +46,7 @@ wrs-project/
    npm install 
    ```
 
-   ```
+
 3. データベース（Postgres）を起動し、データベースを作成
 
    ```sql
