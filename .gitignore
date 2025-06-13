@@ -22,3 +22,6 @@ Thumb.db
 *.log
 npm-debug.log*
 yarn-error.log*
+
+
+/backend/src/test/resources/
