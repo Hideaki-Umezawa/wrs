@@ -1,0 +1,41 @@
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+# VSCode
+.vscode/
+
+# バックエンド
+.gradle/
+build/
+# Kotlin テンポラリ
+*.class
+# テスト結果
+**/test-results/
+**/build/
+# 設定ファイル
+**/application-test.properties
+
+# フロント
+frontend/node_modules/
+frontend/dist/
+# Capacitor／iOS／Android
+frontend/ios/
+frontend/android/
+frontend/www/
+
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+#
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+
+*.jar
+*.keystore
