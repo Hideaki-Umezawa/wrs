@@ -1,10 +1,10 @@
-# OS／エディタ
+# OS
 .DS_Store
 Thumb.db
 .idea/
 .vscode/
 
-# Kotlin/Gradle
+# Kotlin/
 /backend/.gradle/
 /backend/build/
 **/*.class
